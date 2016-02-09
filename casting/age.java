@@ -9,6 +9,6 @@ public class age{
     percent = percent/365;
     double newage = (double)age+percent;
     System.out.println("You are " + newage+ " years old");
-    System.out.println("Rounded to the closest year, you are "+(int)Math.round(newage));
+    System.out.println("Rounded to the closest year, you are "+(int)Math.round(newage)+" years old");
     }
 }
