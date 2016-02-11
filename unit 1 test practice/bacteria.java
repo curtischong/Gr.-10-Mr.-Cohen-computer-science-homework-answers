@@ -6,6 +6,10 @@ public class bacteria{
         System.out.println("What are the number of hours?");
         double hours = scanner.nextInt();
         bacteria = Math.pow(bacteria,hours);
+        
+        
+        //total = bacteria*numof hours
+        
         System.out.println ("Number of bacteria: " + bacteria + " bacterias");
     }
 }
