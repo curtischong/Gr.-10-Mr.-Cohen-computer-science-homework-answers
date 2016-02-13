@@ -5,7 +5,7 @@ public class bacteria{
         double bacteria = 1230;
         System.out.println("What are the number of hours?");
         double hours = scanner.nextInt();
-        bacteria = Math.pow(bacteria,hours);
+        bacteria = bacteria*Math.pow(2,hours);
         
         
         //total = bacteria*numof hours
