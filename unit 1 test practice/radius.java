@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class radius{
-    private static Scanner scanner = new Scanner();
+    private static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args){
         System.out.println("enter a radius");
         double radius = scanner.nextDouble();
