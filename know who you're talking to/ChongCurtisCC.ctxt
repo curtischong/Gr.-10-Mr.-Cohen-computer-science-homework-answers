@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=phrase
+comment0.target=void\ output(java.lang.String)
+comment1.params=phrase
+comment1.target=void\ enterOutput(java.lang.String)
+comment2.params=letter
+comment2.target=void\ turnToLowerAndOutput(int)
+comment3.params=letter
+comment3.target=void\ turnToUpperAndOutput(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
