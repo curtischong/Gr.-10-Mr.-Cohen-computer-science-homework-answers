@@ -140,7 +140,7 @@ public class ChongCurtis{
          */
 
         //generate a random number from 1-999
-        int randomNumber = (int)(Math.round(Math.random()* numSize)+1000);
+        int randomNumber = (int)(Math.round(Math.random()* 4)+1);
 
         
         
